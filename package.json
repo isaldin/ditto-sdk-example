@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@ditto-network/core": "^0.0.2",
+    "@ditto-network/core": "^0.0.3"
     "ethers": "^6.11.1"
   }
 }
